@@ -1,0 +1,177 @@
+*{
+	padding: 0;
+	margin: 0;
+	
+}
+
+.contenedor{
+	display: block;
+	
+
+
+
+
+}
+
+.box{
+
+	background-image: linear-gradient(to left, blue,#ffff,blue);
+}
+.encabezado{
+	background: url(fondo/fondoo.png);
+	background-size: cover;
+	background-color: transparent;
+	width: 100%;
+	height: 70px;
+	text-align: center;
+	
+	
+
+}
+.primario{
+		background-color: red;
+	width: 15%;
+	height: 630px;
+	position: absolute;
+	
+	
+
+
+
+	
+}
+
+.d_box1{
+	background-color: #ffff;
+ width: 75%;
+ height: 400px;
+ border-radius: 10px;
+ opacity: .7;
+ position: relative;
+ left:20px;
+ top:10px;
+ justify-content: center;
+ box-shadow: 10px 10px 10px 7px rgba(0,0,0,0.75);
+
+
+
+}
+.d_box2{
+	background-color: #ffff;
+ width: 75%;
+ height: 200px;
+ opacity: .7;
+ border-radius: 10px;
+ position: relative;
+ left:20px;
+ top:20px;
+ box-shadow: 10px 10px 10px 7px rgba(0,0,0,0.75);
+ 
+
+
+}
+.navegacion{
+	background-color: red; 
+	width: 75%;
+	height: 50px;
+	position: relative;
+	left: 15%;
+	text-align: left;
+}
+
+input{
+	position: relative;
+	top:10px;
+	left: 30px;
+	width: 300px;
+	height: 79%;
+	font-size: 120%;
+	padding: 4.5px;
+	border-radius: 10px;
+
+}
+.rgb{
+	background-image: linear-gradient(to left, red,#ffff,blue);
+
+}
+.principal{
+	background: url(fondo/fondoo.png);
+	background-size: 100% 620px;
+	background-color: transparent;
+	width: 75%;
+	height: 580px;
+	position: relative;
+	left:  15%;
+	overflow-y:  scroll;
+	display: flex;
+	align-items: center;
+
+
+	
+}
+
+.secundario{
+	background-color: black;
+	width: 10%;
+	height: 630px;
+	position: relative;
+	left: 90%;
+	bottom: 38.5px;
+	position: absolute;
+
+	
+}
+.d2_box1{
+	background-color:  green;
+	width: 75%;
+	height: 70px;
+	position: relative;
+	left:  5%;
+	opacity: .7;
+
+}
+a{
+	text-decoration: none;
+}
+.links{ 
+	position: relative;
+	top: 20%;
+	left: 10%;
+	
+
+
+
+}
+.pie{
+	display: flex;
+	background-color: transparent;
+ 		width: 100%;
+ 		height: 39px;
+ 		 justify-content: center;
+ 		 align-items: center;
+ 		 font-family: georgia;
+ 		 background-image: linear-gradient(to left, red,#ffff,blue);
+ 	}
+
+.img{
+	padding-right: 30px;
+ position: relative;
+ left: 5%;
+ top: 0.5px;
+	
+}
+.n{
+	font-family: georgia;
+	padding-left:  200px;
+	font-size: 30px;
+	
+}
+.contacto{
+	padding-left:  100px;
+	font-size: 30px;
+}
+.p_img{
+	position: relative;
+	
+	
+}
